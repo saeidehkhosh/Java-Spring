@@ -1,4 +1,4 @@
-# beslogic
+# Java-Sprong
 
 Hello,
 Please open the code in STS(Spring Tool Suite4) IDE, https://spring.io/tools
